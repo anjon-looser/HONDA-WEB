@@ -1,0 +1,58 @@
+/* google font popins added */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.header-bg-honda{
+    background-color: #264653;
+}
+.btn-modal-color-honda{
+    background-color: #E76F51;
+}
+.text-orange-honda{
+    color: #E76F51;
+}
+
+.feature-bike-size-honda{
+    width: 100%;
+    
+}
+
+.gray-scale-honda{
+    filter: grayscale(1);
+    -webkit-filter: grayscale(1);
+}
+
+.client-img-size-honda{
+    width: 149px;
+    height: 149px;
+}
+
+.fa-star.filled {
+    color: #E77C40;
+}
+.fa-star.empty {
+    color: #E77C40;
+  }
+
+  .orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #a913ff;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #1f1b1d 0%, #2b13ff 100%);
+    color: rgb(231, 16, 16);
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
